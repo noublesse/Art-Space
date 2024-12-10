@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Art Space</string>
+    <string name="arttitle1">gambar I </string>
+    <string name="arttitle2">gambar II </string>
+    <string name="arttitle3">gambar III </string>
+    <string name="artist1">Brandewa</string>
+    <string name="artist2">Brandewa</string>
+    <string name="artist3">Brandewa</string>
+</resources>
